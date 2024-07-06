@@ -2,7 +2,7 @@
 
 ### 1. Explique, com suas palavras, o que é machine learning?
 
-**_Machine Learning_** é um campo de estudos da área de Inteligência Artificial que é fortemente contemplada por conhecimentos de Ciências de Dados. Possui múltiplas campos de aplicação, tais como agricultura, medicina e processamento e reconhecimento de voz e imagem. Entendo que a criação de algorítimos que, através de dados previamente estabelecidos, criam rotinas de execução de tarefas sem instruções explícitas externas necessárias, é principal natureza da área de **_Machine Learning_**.
+**_Machine Learning_** é um campo de estudos da área de Inteligência Artificial que é fortemente contemplada por conhecimentos de Ciências de Dados. Possui múltiplas campos de aplicação, tais como agricultura, medicina e processamento e reconhecimento de voz e imagem. Entendo como a área que busca, através da criação de algorítimos por meio de dados previamente estabelecidos, criam rotinas de execução de tarefas sem instruções explícitas externas necessárias.
 
 ---
 

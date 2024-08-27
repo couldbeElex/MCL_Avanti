@@ -28,7 +28,7 @@ Nessa etapa, a equipe buscou métodos e modelos já existentes na literatura par
 
 ![Estrutura da CNN](imagens/unet_estrutura.png)
 
-A estrutura da arquitetura da Rede Neural Convolucional foi plotada utilizando a biblioteca Visualkeras.
+A estrutura da arquitetura da Rede Neural Convolucional foi plotada utilizando a biblioteca [Visualkeras](https://github.com/paulgavrikov/visualkeras/tree/master?tab=readme-ov-file).
 
 #### Gráfico de perda e acurácia
 
@@ -47,7 +47,7 @@ A estrutura da arquitetura da Rede Neural Convolucional foi plotada utilizando a
 #### Testes
 
 ![Resultado](Resultados_Finais/Testes/1.png)
-![Resultado](Resultados_Finais/Testes/2.png)
 ![Resultado](Resultados_Finais/Testes/3.png)
+![Resultado](Resultados_Finais/Testes/2.png)
 ![Resultado](Resultados_Finais/Testes/4.png)
 ![Resultado](Resultados_Finais/Testes/5.png)
